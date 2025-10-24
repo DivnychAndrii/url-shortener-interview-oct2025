@@ -9,7 +9,7 @@ introducing new requirements.
 ## Timeline
 The live coding interview was completed in **October 2025**
 
-## Timeline
+## Time Constraint
 Roughly 45 minutes to complete as many rounds as possible. Tests first.
 
 ---
